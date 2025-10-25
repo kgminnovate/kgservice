@@ -1,10 +1,10 @@
 {
   "licenses": [
     {
-      "licenseKey": "ABC123DEF456GHI789JKL012MNO345PQR",
+      "licenseKey": "ABC123DEF456GHI789JKL012MNO345PQ",
       "registerDate": "2024-01-01",
       "expiryDate": "2024-12-31",
-      "registeredName": "Customer Name",
+      "registeredName": "KG Service Name",
       "activeFlag": true,
       "imei": "123456789012345",
       "other1": "value1",
