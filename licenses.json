@@ -1,0 +1,17 @@
+{
+  "licenses": [
+    {
+      "licenseKey": "ABC123DEF456GHI789JKL012MNO345PQR",
+      "registerDate": "2024-01-01",
+      "expiryDate": "2024-12-31",
+      "registeredName": "Customer Name",
+      "activeFlag": true,
+      "imei": "123456789012345",
+      "other1": "value1",
+      "other2": "value2",
+      "other3": "value3",
+      "other4": "value4",
+      "other5": "value5"
+    }
+  ]
+}
