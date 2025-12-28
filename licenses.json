@@ -54,5 +54,19 @@
       "other4": "value4",
       "other5": "value5"
     }
+    ,
+        {
+      "licenseKey": "KGM8R1Q9L6H2T7C5W3B0E9Y4P6D1X9KK",
+      "registerDate": "2025-12-28",
+      "expiryDate": "2026-01-31",
+      "registeredName": "Jai",
+      "activeFlag": true,
+      "androidId": "2bbf9a6684d6356b",
+      "other1": "value1",
+      "other2": "value2",
+      "other3": "value3",
+      "other4": "value4",
+      "other5": "value5"
+    }
   ]
 }
