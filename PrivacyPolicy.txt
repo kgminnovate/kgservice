@@ -1,0 +1,35 @@
+Privacy Policy
+
+App name: KGMobileService
+Developer: Kumaran K
+Mail id: kgmassist@gmail.com
+
+We take your privacy seriously and are committed to protecting your personal information. This Privacy Policy explains what information, if any, our app collects and how we use it.
+
+
+Data Collection
+
+Our app does not collect any personal data from users, such as name, email address, phone number, or location data.
+
+We do not use any third-party services or software development kits (SDKs) that may collect user data.
+
+We do not use cookies or any other tracking technologies to collect user data.
+
+
+Data Usage
+
+Since our app does not collect any user data, we do not use it for any purpose.
+
+
+Data Sharing
+
+Since our app does not collect any user data, we do not share any data with any third parties.
+
+Changes to this Privacy Policy
+
+We may update this Privacy Policy from time to time. We will notify users of any material changes to this Privacy Policy by posting a notice in our or by other means.
+
+
+Contact Us
+
+If you have any questions or concerns about our Privacy Policy, please contact us at kgmassist@gmail.com.
